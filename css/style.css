@@ -1,0 +1,81 @@
+body{
+    background-color: rgb(87, 111, 114) ;
+}
+.navbar {
+    background-color: rgb(228, 220, 207);
+    color:rgb(118, 115, 115);
+   display: flex;
+   justify-content: space-around;
+}
+.heading1{
+    color: black;
+    margin-left: 37%;
+    margin-top: 5%;
+}
+.paragraph1{
+    color: black;
+    margin-left: 40%;
+}
+.image{
+    margin-left: 30%;
+   width:40%;
+   border-radius:15%;
+   
+}
+.section{
+   background-color:rgb(228, 220, 207);
+   border-radius: 10px;
+}
+.section:hover{
+    background-color: rgb(125, 157, 156);
+    transition: 1s;
+}
+.heading2{
+    display: flex;
+    justify-content: center;
+}
+.paragraph2{
+    padding-left: 2%;
+    display: flex;
+    justify-content: center;
+}
+.list{
+    padding-left: 45%;
+}
+.vedio{
+    width: 450px;
+    height: 200px;
+   padding-left: 30%;
+}
+.input{
+    height: 30px;
+    width: 300px;
+    margin-left: 35%;
+}
+.button{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    width: 100px;
+    height: 30px;
+    margin-left: 43%;
+    border-radius: 10%;
+}
+.button:hover{
+    color: white;
+    background-color: rgb(0, 0, 0);
+    transition: 300ms;
+}
+.footer{
+    background-color: rgb(232, 232, 232);
+    border-radius: 10px;
+}
+.footer:hover{
+    background-color:rgb(125, 157, 156);
+    transition: 1s;
+}
+.fa-brands{
+    margin-left: 45%;
+}
+.instagram{
+    color: black;
+}
